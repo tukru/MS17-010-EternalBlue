@@ -26,8 +26,6 @@ The Python script can be run independently from the command line with the follow
 
 Example:
 
-css
-
 python ms17-010_checker.py -t 192.168.1.1/24 -u username -p password -d domain
 
 Notes
@@ -35,3 +33,4 @@ Notes
     The payload script is designed for macOS systems.
     Ensure that the BashBunny device is in HID mode (ATTACKMODE HID STORAGE).
     Modify the target IPs in the payload script as needed.
+    fuck bitches, get money.
