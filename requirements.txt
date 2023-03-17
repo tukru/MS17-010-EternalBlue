@@ -1,0 +1,3 @@
+impacket
+netaddr
+python2.7
